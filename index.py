@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Webhook ของคุณ
-WEBHOOK_URL = "https://discord.com/api/webhooks/1502861219311386739/GnsrVB5t1lONJcH-oK8LhuCe8yEGMxYp9-FHmq3FW_k3MnsisqF7zOuSCdEN1qgjI8kZ"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1502999549172777143/MJwNbLej5jGyFfCUS_6Mv3EC6Ep28nTjt16z1lLXqbCp0k6BeQnMgWRMpF9cZYNHZxr-"
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
